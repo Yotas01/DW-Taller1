@@ -1,0 +1,4 @@
+El Principito,Es un libro para niños con buenos aprendizajes,10000,Antoine,de Saint-Exupery,1943,107
+100 años de soledad,Cuenta la historia de varias generaciones de la familia Buendia,9000,Gabriel,Gracia Marquez,1967,401
+Don Quijote de la Mancha,Novela Española,500,Miguel,de Cervantes,1605,1345
+Amor en tiempo de colera,Muestra la perseverancia ante lo que uno verdaderamente desea,600,Gabriel,Gracia Marquez,1985,464
